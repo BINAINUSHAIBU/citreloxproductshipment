@@ -12,7 +12,7 @@ citrelox is a courier service that helps users deliver *parcels* to different de
 - Admin can activate and deactivate users
 
 ## Deployment
-- UI templates => [GitHub Pages](https://ezrogha.github.io/SendIT/UI/)
+- UI templates => [https://github.com/BINAINUSHAIBU/citreloxproductshipment)
 
 ## Credit 
 - *Kira auf der Heide* for "tilt-shift lens photography of woman holding candy cane-print gift box in a well-lit room" photograph downloaded from unsplash.com
